@@ -1,5 +1,7 @@
 # RefikOS
 
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e8e0bc79-25be-4a12-92a8-c989304c46ca" />
+
 **RefikOS is a modular operating system for humanitarian organizations.**
 
 RefikOS helps NGOs, foundations, aid organizations and disaster-response teams manage donations, volunteers, field operations, logistics, warehouses, campaigns, finance workflows and rescue coordination from a single extensible platform.
