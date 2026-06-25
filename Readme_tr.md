@@ -1,6 +1,6 @@
-# RefikOS
-
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/01d310ca-cc01-4094-bd3a-106e4a55c9a6" />
+
+# RefikOS
 
 **RefikOS, insani yardım kuruluşları için modüler bir işletim sistemidir.**
 
